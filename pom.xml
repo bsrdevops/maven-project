@@ -94,7 +94,7 @@
           -->
           <url>http://localhost:8080/manager</url>
         </configuration>
-      </plugin>the 
+      </plugin> 
     </plugins>
   </build>
 
